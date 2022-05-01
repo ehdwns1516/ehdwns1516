@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=DongjoonShon&fontSize=70&animation=twinkling)
+[header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=DongjoonShon&fontSize=70&animation=twinkling)
 
 <div align="center">
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ehdwns1516&layout=compact&theme=material-palenight'>
@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/Git-purple?logo=Git"/>&nbsp;<img src="https://img.shields.io/badge/GitHub-purple?logo=Github"/>
 </div>
 
-<h3 align="center"> 🐲 Me 🐲 </h3>
+<h3 align="center"> 🐲 Contact Me 🐲 </h3>
 <p align="center">
   <a href="mailto:ehdwns1516@ajou.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ehdwns1516@ajou.ac.kr"/></a>
 </p>
