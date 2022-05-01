@@ -1,4 +1,4 @@
-[header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=DongjoonShon&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=DongjoonShon&fontSize=70&animation=twinkling)
 
 <div align="center">
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ehdwns1516&layout=compact&theme=material-palenight'>
